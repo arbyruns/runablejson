@@ -1,42 +1,40 @@
 [{
-		"id": 1,
-		"weeknumber": 1,
-		"totalWeekMiles": 38,
-		"day1": {
-			"day": "Monday",
-			"dayMiles": 6,
-			"exercise": "6 miles easy"
-		},
-		"day2": {
-			"day": "Tuesday",
-			"dayMiles": 6,
-			"exercise": "6 miles easy"
-		},
-		"day3": {
-			"day": "Wednesday",
-			"dayMiles": 0,
-			"exercise": "Rest"
-		},
-		"day4": {
-			"day": "Thursday",
-			"dayMiles": 6,
-			"exercise": "6 miles easy"
-		},
-		"day5": {
-			"day": "Friday",
-			"dayMiles": 6,
-			"exercise": "6 miles easy"
-		},
-		"day6": {
-			"day": "Saturday",
-			"dayMiles": 6,
-			"exercise": "6 miles easy"
-		},
-		"day0": {
-			"day": "Sunday",
-			"dayMiles": 8,
-			"exercise": "8 miles easy"
-		}
+	"id": 1,
+	"weeknumber": 1,
+	"totalWeekMiles": 38,
+	"day1": {
+		"day": "Monday",
+		"dayMiles": 6,
+		"exercise": "6 miles easy"
+	},
+	"day2": {
+		"day": "Tuesday",
+		"dayMiles": 6,
+		"exercise": "6 miles easy"
+	},
+	"day3": {
+		"day": "Wednesday",
+		"dayMiles": 0,
+		"exercise": "Rest"
+	},
+	"day4": {
+		"day": "Thursday",
+		"dayMiles": 6,
+		"exercise": "6 miles easy"
+	},
+	"day5": {
+		"day": "Friday",
+		"dayMiles": 6,
+		"exercise": "6 miles easy"
+	},
+	"day6": {
+		"day": "Saturday",
+		"dayMiles": 6,
+		"exercise": "6 miles easy"
+	},
+	"day0": {
+		"day": "Sunday",
+		"dayMiles": 8,
+		"exercise": "8 miles easy"
 	}
- }
- ]
+}]
